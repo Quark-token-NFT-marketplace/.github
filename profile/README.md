@@ -11,4 +11,4 @@ Quark token is building one of the first NFT Marketplaces on Alveychain. Buildin
 Quark token has already developed a Token- & LP-lock on the Alveychain Blockchain. Currently working on a bot that is used for Alveychain communities.
 
 ## Marketplace
-The Marketplace has a 1% dev and marketing fee. There will be a Quark token burn function where you can get 0% fees from all future mints if you participate in the burn feature that we will implement.
+The Marketplace has a 0-2% dev and marketing fee. There will be a Quark token burn function where you can get 0% fees from all future mints if you participate in the burn feature that we will implement.
